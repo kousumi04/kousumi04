@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/kousumi04?style=for-the-badge&logo=github" />
+  <!-- <img src="https://img.shields.io/github/followers/kousumi04?style=for-the-badge&logo=github" /> -->
   <img src="https://img.shields.io/github/stars/kousumi04?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Generative%20AI-orange?style=for-the-badge" />

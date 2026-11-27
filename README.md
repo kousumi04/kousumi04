@@ -12,6 +12,7 @@ I build software applications, AI-powered systems, data engineering pipelines, a
 
 - **[CollabCompiler](https://github.com/kousumi04/CollabCompiler)** — Collaborative code editor and compiler for real-time coding and collaboration.
 - **[CareerFit](https://github.com/kousumi04/CareerFit)** — AI-powered career assistance and resume analysis platform.
+- **[CDN Simulator](https://github.com/kousumi04/cdn-simulator)** — Simulation of content delivery networks and caching mechanisms.
 - **[E-Commerce Data Lakehouse](https://github.com/kousumi04/E-Commerce-Platform-Olist-Data-Lakehouse)** — End-to-end data engineering project using PySpark and AWS for e-commerce analytics.
 - **[Mini API Gateway](https://github.com/kousumi04/api-gateway)** — Lightweight API gateway for managing and routing API requests.
 - **[Instacart SQL Analytics](https://github.com/kousumi04/instacart-sql-analytics)** — SQL-based analysis of Instacart shopping data to uncover customer purchasing patterns.

@@ -6,7 +6,7 @@ I build software applications, AI-powered systems, data engineering pipelines, a
 
 ### Stack
 
-`Python` · `Java` · `C++` · `SQL` · `FastAPI` · `React` · `Node.js` · `PySpark` · `AWS` · `PostgreSQL` · `Machine Learning` · `Generative AI`
+`Python` · `Java` · `SQL` · `FastAPI` · `React` · `Node.js` · `PySpark` · `AWS` · `PostgreSQL` · `Machine Learning` · `Generative AI`
 
 ### Projects
 
